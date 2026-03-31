@@ -9,7 +9,7 @@ canvas {
   left: 0;
 }
 body {
-  background-image: url('../birthday_bg.jpg');
+  background-image: url('birthday_bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

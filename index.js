@@ -509,4 +509,3 @@ x = setInterval(function() {
   //     clearInterval(x);
   //     console.log("happy birthday");
   // }
-, second);
